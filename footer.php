@@ -119,7 +119,31 @@
             </div>
         </div>
     </footer>
+<script type="text/javascript">
+       // function scrollNav() {
+          $(function () {
+           
+            
+    setNavigation();
+});
 
+function setNavigation() {
+    var path = window.location.pathname;
+    
+    path = path.replace(/\//, "");
+   
+    path=path.split('/');
+    //path = decodeURIComponent(path);
+     url=path[1];
+    $(".nav a").each(function () {
+        var href = $(this).attr('href');
+        //alert(href);
+        if (url === href) {
+            $(this).closest('li').addClass('active');
+        }
+    });
+}
+    </script>
     
     <script type="text/javascript">
         function scrollNav() {
