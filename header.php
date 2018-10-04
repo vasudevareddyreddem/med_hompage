@@ -65,7 +65,7 @@
 
                 <!-- Left -->
                 <ul class="navbar-nav mr-auto nav">
-                    <li class="nav-item active">
+                    <li class="nav-item ">
                         <a class="nav-link" href="index.php">Home
                             <span class="sr-only">(current)</span>
                         </a>
