@@ -1,5 +1,8 @@
 <?php include("header.php"); ?>
 
+    <title>Hospital Managment Software | MedSpace</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
     
     <!--Main layout-->
     <main class="mt-5">

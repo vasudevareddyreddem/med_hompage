@@ -1,5 +1,9 @@
 <?php include("header.php"); ?>
 
+    <title>Waste Managment Software | MedSpace</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+
     <!--Main layout-->
     <main class="mt-5">
         <div class="container">

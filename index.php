@@ -1,5 +1,10 @@
 <?php include("header.php"); ?>
 
+    <title>MedSpace</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+
+
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         
         <ol class="carousel-indicators">
