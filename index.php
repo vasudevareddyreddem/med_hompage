@@ -65,8 +65,34 @@
     <!--Main layout-->
     <main class="mt-5">
         <div class="container pt-5">
-
+		
             <!--Section: Main info-->
+            <section>    
+                <!--First row-->
+                <div class="row features-small mb-5 mt-3 wow fadeIn">
+
+                    <!--First column-->
+                    <div class="col-md-8">
+                        
+                        <h3 class="h3 mb-3">About Medspace</h3>
+                        <p>Medspace Softtech Pvt. Ltd. is a software company located in Hyderabad and Tirupathi with regional branches in Guntur and Bangalore. It provides management software like hospital management and biomedical waste management. It helps people find online medical services like choosing right hospitals, book appointments, book diagnostics, storing medical records. </p>
+                        
+                    </div>
+                    <!--/First column-->
+
+                    <!--Second column-->
+                    <div class="col-md-2">
+                        <img src="img/about.png" alt="" class="img-fluid">
+                    </div>
+                    <!--/Second column-->
+                </div>
+
+            </section>
+            <!--Section: Main info-->
+
+            <hr class="my-5">
+
+            <!--Section: Not enough-->
             <section class="wow fadeIn pt-5">
 
                 <!--Grid row-->
@@ -101,33 +127,7 @@
                 <!--Grid row-->
 
             </section>
-            <!--Section: Main info-->
-
-            <hr class="my-5">
-
-            <!--Section: Not enough-->
-            <section id="hospital-section" class="mt-5 wow fadeIn">
-                
-                <!--First row-->
-                <div class="row features-small mb-5 mt-3 wow fadeIn">
-
-                    <!--First column-->
-                    <div class="col-md-8">
-                        
-                        <h3 class="h3 mb-3">About Medspace</h3>
-                        <p>Medspace Softtech Pvt. Ltd. is a software company located in Hyderabad and Tirupathi with regional branches in Guntur and Bangalore. It provides management software like hospital management and biomedical waste management. It helps people find online medical services like choosing right hospitals, book appointments, book diagnostics, storing medical records. </p>
-                        
-                    </div>
-                    <!--/First column-->
-
-                    <!--Second column-->
-                    <div class="col-md-2">
-                        <img src="img/about.png" alt="" class="img-fluid">
-                    </div>
-                    <!--/Second column-->
-                </div>
-
-            </section>
+            
 
             <hr class="my-5">
             
@@ -135,13 +135,6 @@
 
                 <!--Grid row-->
                 <div class="row">
-                    
-                    <div class="col-md-6 mb-4">
-
-                        <img src="img/barcode.png" class="img-fluid " alt="">
-
-                    </div>
-                    <!--Grid column-->
                     
                     <!--Grid column-->
                     <div class="col-md-6 mb-4">
@@ -155,6 +148,13 @@
 
                         <!-- Main heading -->
                         <a href="waste-mang.php" class="btn btn-primary btn-md navbar-color">View more</a>
+
+                    </div>
+                    <!--Grid column-->
+					
+					<div class="col-md-6 mb-4">
+
+                        <img src="img/barcode.png" class="img-fluid " alt="">
 
                     </div>
                     <!--Grid column-->
