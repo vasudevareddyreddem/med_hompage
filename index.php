@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 
-    <title>MedSpace</title>
+    <title>Hospital Management System in Tirupati - MedSpace</title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
 <!--Carousel Wrapper-->
@@ -40,7 +40,7 @@
 				<div style="position: absolute;left: 40%;top: 40%;transform: translate(-35%,-50%);">
 				<div class="text-center white-text mx-5 wow fadeIn">
                         <h1 class=" h1 h1-style-caption">
-                            Welcome To Medspace
+                             Medspace - Hospital Management System
                         </h1>
                     </div>
                     </div>
@@ -75,7 +75,8 @@
                     <div class="col-md-8">
                         
                         <h3 class="h3 mb-3">About Medspace</h3>
-                        <p>Medspace Softtech Pvt. Ltd. is a software company located in Hyderabad and Tirupathi with regional branches in Guntur and Bangalore. It provides management software like hospital management and biomedical waste management. It helps people find online medical services like choosing right hospitals, book appointments, book diagnostics, storing medical records. </p>
+                        <p>The evolution of technology has made the communication process much easier for humans. In the past decade one has to go physically to the hospital to book a doctor  appointment, but now through the expeditious expansion in software  one can book the doctor’s appointment through mobile app, all you need is a smart phone with an internet connection. We at Medspace Softtech Pvt. Ltd. has developed a hospital management system to benefit both the hospitals and medical care seekers. The company deals with hospital management system, health cards and biomedical waste management system. It helps people to find online medical services like choosing the right hospital, booking doctor  appointment, booking diagnostic center appointment, storing medical records, purchasing online medicines  etc. Medspace Softtech Pvt. Ltd. is located in Hyderabad and has its branches in Tirupati, Guntur and Bangalore and is planning to launch more branches across India. 
+ </p>
                         
                     </div>
                     <!--/First column-->
@@ -111,11 +112,9 @@
 
                         <!-- Main heading -->
                         <h3 class="h3 mb-3">Medspace Health Card</h3>
-                        <p>
-                            Medspace card is a collection of medical records that get generated during any clinical encounter. The purpose of collecting medical records is to have accurate and faster diagnosis that translates into better treatment at lower costs, avoiding unnecessary investigations every time we visit hospitals.
-                        </p>
-                        <p>Medspace card is designed to store patient’s medical history. It gives each patient a smart card containing his/her complete medical history. </p>
-                        <p>When a patient visits the hospital, patient’s information, medical records can be accessed directly through Medspace card. At the end of the process it has the capability to update patient’s information.</p>
+                        <p> Apart from hospital management system, Medspace also provides health cards in the form of smart cards which is designed to store patient’s complete medical information. This health card enables medical care seekers and patients to have a faster diagnosis and avoids unnecessary investigations or tests every time they visit the hospital.  </p>
+                        <p> Medspace health card will provide various discounts on laboratory tests and medicines. </p> 
+                        <p>When a patient visits the hospital, his/her information and medical records can be accessed directly through Medspace health card and at the end of every visit latest information is updated to the health card.</p>
                         <!-- Main heading -->
 
                         <a href="health-card.php" class="btn btn-primary btn-md navbar-color darken-3">View more</a>
@@ -142,9 +141,10 @@
                         <!-- Main heading -->
                         <h3 class="h3 mb-3">Waste Mangement Software </h3>
                         <p>
-                            Bio-medical Waste Management Rules, 2016 notified on 28.03.2016 and as amended thereof under the Environment (Protection) Act, 1986, stipulates that it is the duty of every Health Care Facility (HCF) to establish a bar code system for bags or containers containing bio-medical waste (BMW) to be sent out of the premises or place for any purpose, by 27.03.2019. Also, Rule 5 of the BMWM Rules, 2016 stipulates that it is the duty of the every Operator of Common Bio-medical Waste Treatment Facility (CBWTF) to establish bar code system for handling of bio-medical waste. </p>
+                            As per Bio-medical Waste Management Rules, 2016 notified on 28.03.2016 and as amended thereof under the Environment (Protection) Act, 1986, stipulates that it is the duty of every Health Care Facility (HCF) to establish a bar code system for bags or containers containing bio-medical waste (BMW) to be sent out of the premises or place for any purpose, by 27.03.2019. Also, Rule 5 of the BMWM Rules, 2016 stipulates that it is the duty of the every Operator of Common Bio-medical Waste Treatment Facility (CBWTF) to establish bar code system for handling of bio-medical waste. </p>
                         <p>
-                            These guidelines have been prepared to facilitate and provide guidance to both the Occupier as well as Operator of CBWTF to establish bar code system and also to have uniformity in adoption of the bar code system throughout the country, thereby ensuring effective enforcement of the BMWM Rules, 2016. </p>
+                            As per these guidelines Medspace has developed a waste management software to track the disposal activity from accumulation of waste to disposal of waste.
+ </p>
 
                         <!-- Main heading -->
                         <a href="waste-mang.php" class="btn btn-primary btn-md navbar-color">View more</a>
