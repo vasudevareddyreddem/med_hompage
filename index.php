@@ -37,9 +37,9 @@
       </div>
    
     </div>
-				<div style="position: absolute;left: 40%;top: 40%;transform: translate(-35%,-50%);">
+				<div style="position: absolute;left: 25%;top: 40%;transform: translate(-20%,-50%);">
 				<div class="text-center white-text mx-5 wow fadeIn">
-                        <h1 class=" h1 h1-style-caption">
+                        <h1 class=" h4 h1-style-caption">
                              Medspace - Hospital Management System
                         </h1>
                     </div>
@@ -72,7 +72,7 @@
                 <div class="row features-small mb-5 mt-3 wow fadeIn">
 
                     <!--First column-->
-                    <div class="col-md-8">
+                    <div class="col-md-7">
                         
                         <h3 class="h3 mb-3">About Medspace</h3>
                         <p>The evolution of technology has made the communication process much easier for humans. In the past decade one has to go physically to the hospital to book a doctor  appointment, but now through the expeditious expansion in software  one can book the doctor’s appointment through mobile app, all you need is a smart phone with an internet connection. We at Medspace Softtech Pvt. Ltd. has developed a hospital management system to benefit both the hospitals and medical care seekers. The company deals with hospital management system, health cards and biomedical waste management system. It helps people to find online medical services like choosing the right hospital, booking doctor  appointment, booking diagnostic center appointment, storing medical records, purchasing online medicines  etc. Medspace Softtech Pvt. Ltd. is located in Hyderabad and has its branches in Tirupati, Guntur and Bangalore and is planning to launch more branches across India. 
@@ -82,8 +82,8 @@
                     <!--/First column-->
 
                     <!--Second column-->
-                    <div class="col-md-2">
-                        <img src="img/about.png" alt="" class="img-fluid">
+                    <div class="col-md-4">
+                        <img src="img/about.png" alt="" class="img-fluid " >
                     </div>
                     <!--/Second column-->
                 </div>

@@ -99,23 +99,37 @@
     <footer class="bg-dark text-white py-4">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-4">
                     <h3 class="h4">Registered Address</h3>
                     <p>6-2-102, Thyagaraja Nagar Area, Revenue Ward No 6,
                         Old Maternity Road, Tirupati,
                         Chittor- 517501,
                         Andhra Pradesh - India.</p>
                 </div>
-                <div class="col-md-2">&nbsp;
+					<div class="col-md-4">
+                    <h3 class="h4">Connect Us</h3>
+						<p><!--Facebook-->
+						<a target="_blank" href="https://www.facebook.com/Medspaceit-456795708151963/" type="button" class="btn-floating btn-sm btn-fb"><i class="fa fa-facebook"></i></a>
+						<!--Twitter-->
+						<a target="_blank" href="https://twitter.com/medspaceit" type="button" class="btn-floating btn-sm btn-tw"><i class="fa fa-twitter"></i></a>
+						<!--Google +-->
+						<a target="_blank" href="https://plus.google.com/u/0/113087361523023181095" type="button" class="btn-floating btn-sm btn-gplus"><i class="fa fa-google-plus"></i></a>
+						<!--Linkedin-->
+						<a target="_blank" href="https://www.linkedin.com/company/medspaceit/" type="button" class="btn-floating btn-sm btn-li"><i class="fa fa-linkedin"></i></a></p>
                 </div>
+            
                 <div class="col-md-4">
                     <h3 class="h4">Contact Us</h3>
                     <p><i class="fa fa-envelope" aria-hidden="true"></i>
                         &nbsp; medspaceit@gmail.com</p>
-                    <p><i class="fa fa-phone-square" aria-hidden="true"></i>
+                    <p><i class="fa fa-whatsapp" aria-hidden="true"></i>
 
                         &nbsp; 7095103103</p>
-                </div>
+						<p><i class="fa fa-phone-square" aria-hidden="true"></i>
+
+                        &nbsp; 7997999105</p>
+                </div> 
+			
             </div>
         </div>
     </footer>
