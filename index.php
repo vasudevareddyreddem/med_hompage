@@ -72,7 +72,7 @@
                 <div class="row features-small mb-5 mt-3 wow fadeIn">
 
                     <!--First column-->
-                    <div class="col-md-7">
+                    <div class="col-md-8">
                         
                         <h3 class="h3 mb-3">About Medspace</h3>
                         <p>The evolution of technology has made the communication process much easier for humans. In the past decade one has to go physically to the hospital to book a doctor  appointment, but now through the expeditious expansion in software  one can book the doctor’s appointment through mobile app, all you need is a smart phone with an internet connection. We at Medspace Softtech Pvt. Ltd. has developed a hospital management system to benefit both the hospitals and medical care seekers. The company deals with hospital management system, health cards and biomedical waste management system. It helps people to find online medical services like choosing the right hospital, booking doctor  appointment, booking diagnostic center appointment, storing medical records, purchasing online medicines  etc. Medspace Softtech Pvt. Ltd. is located in Hyderabad and has its branches in Tirupati, Guntur and Bangalore and is planning to launch more branches across India. 
