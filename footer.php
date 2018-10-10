@@ -99,14 +99,14 @@
     <footer class="bg-dark text-white py-4">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 text-center">
+                <div class="col-md-4 ">
                     <h3 class="h4">Registered Address</h3>
                     <p>6-2-102, Thyagaraja Nagar Area, Revenue Ward No 6,
                         Old Maternity Road, Tirupati,
                         Chittor- 517501,
                         Andhra Pradesh - India.</p>
                 </div>
-					<div class="col-md-4 text-center">
+					<div class="col-md-4">
                     <h3 class="h4">Connect Us</h3>
 						<p><!--Facebook-->
 						<a target="_blank" href="https://www.facebook.com/Medspaceit-456795708151963/" type="button" class="btn-floating btn-sm btn-fb"><i class="fa fa-facebook"></i></a>
@@ -118,7 +118,7 @@
 						<a target="_blank" href="https://www.linkedin.com/company/medspaceit/" type="button" class="btn-floating btn-sm btn-li"><i class="fa fa-linkedin"></i></a></p>
                 </div>
             
-                <div class="col-md-4 text-center">
+                <div class="col-md-4">
                     <h3 class="h4">Contact Us</h3>
                     <p><i class="fa fa-envelope" aria-hidden="true"></i>
                         &nbsp; medspaceit@gmail.com</p>
