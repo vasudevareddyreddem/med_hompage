@@ -100,26 +100,59 @@
                 <div class="row">
 
                     <!--Grid column-->
-                    <div class="col-md-6 mb-4">
+                    <div class="col-md-4 mb-4">
 
-                        <img src="img/card.png" class="img-fluid " alt="">
+                        <img src="img/hospital-mangement-system.png" class="img-fluid " alt="">
 
                     </div>
                     <!--Grid column-->
 
                     <!--Grid column-->
-                    <div class="col-md-6 mb-4">
+                    <div class="col-md-8 mb-4">
+
+                        <!-- Main heading -->
+                        <h3 class="h3 mb-3">Hospital Management System</h3>
+                        <p> Medspace has developed a reliable hospital management system software for the hospitals. It has been designed keeping in mind today's complex health care system requirements and the importance of time.</p>
+						<p> This hospital management software helps you to manage all the functions within the hospital like Reception, In-patient Management, Out-patient Management, Laboratory Management, Pharmacy, Nurse and Doctor records. The main purpose of this hospital management system is to reduce human efforts and to shift the physical records to electronic records.  </p>
+                       <a href=" hospital-sec.php" class="btn btn-primary btn-md navbar-color darken-3">View more</a>
+                    
+
+                    </div>
+                    <!--Grid column-->
+
+                </div>
+                <!--Grid row-->
+
+            </section>
+            
+
+            <hr class="my-5"><section class="wow fadeIn pt-5">
+
+                <!--Grid row-->
+                <div class="row">
+
+                   
+
+                    <!--Grid column-->
+                    <div class="col-md-8 mb-4">
 
                         <!-- Main heading -->
                         <h3 class="h3 mb-3">Medspace Health Card</h3>
                         <p> Apart from hospital management system, Medspace also provides health cards in the form of smart cards which is designed to store patient’s complete medical information. This health card enables medical care seekers and patients to have a faster diagnosis and avoids unnecessary investigations or tests every time they visit the hospital.  </p>
                         <p> Medspace health card will provide various discounts on laboratory tests and medicines. </p> 
                         <p>When a patient visits the hospital, his/her information and medical records can be accessed directly through Medspace health card and at the end of every visit latest information is updated to the health card.</p>
-                        <!-- Main heading -->
+                        
 
                         <a href="health-card.php" class="btn btn-primary btn-md navbar-color darken-3">View more</a>
 
                     </div>
+					 
+                    <div class="col-md-4 py-5">
+
+                        <img src="img/card.png" class="img-fluid " alt="">
+
+                    </div>
+                    
                     <!--Grid column-->
 
                 </div>
@@ -135,7 +168,11 @@
                 <!--Grid row-->
                 <div class="row">
                     
-                    <!--Grid column-->
+                    <div class="col-md-6 mb-4">
+
+                        <img src="img/barcode.png" class="img-fluid " alt="">
+
+                    </div>
                     <div class="col-md-6 mb-4">
 
                         <!-- Main heading -->
@@ -150,55 +187,14 @@
                         <a href="waste-mang.php" class="btn btn-primary btn-md navbar-color">View more</a>
 
                     </div>
-                    <!--Grid column-->
-					
-					<div class="col-md-6 mb-4">
-
-                        <img src="img/barcode.png" class="img-fluid " alt="">
-
-                    </div>
-                    <!--Grid column-->
+                   
                     
                 </div>
                 <!--Grid row-->
 
             </section>
 
-            <hr class="mb-5">
-
-            <!--Section: More-->
-            <section class="my-5">
-
-                <h2 class="my-2 h3 text-left">Need for Bar Code System </h2>
-                <p>Bar code system would help in accounting the quantity of biomedical waste being collected, treated and disposed. This system would also help the prescribed authorities in monitoring the implementation of BMWM Rules, 2016. The benefits of Bar code system are summarised below; </p>
-                <ol>
-                    <li>
-                        <p>Tracking of biomedical waste from source of generation to intended destination for final treatment and disposal;</p>
-                    </li>
-                    <li>
-                        <p>Daily check on the Occupier, transporter (involved in transportation of bio-medical waste within HCF as well as transportation of bio-medical waste from HCF to the CBWTF premises) and Operator of a CBWTF; </p>
-                    </li>
-                    <li>
-                        <p>Preventing pilferage of bio-medical waste at HCFs as well as during transportation of waste from HCF to the CBWTF; </p>
-                    </li>
-                    <li>
-                        <p>) Keeping record of visits made by CBWTF to the member HCFs for collection of waste; </p>
-                    </li>
-                    <li>
-                        <p>Identification of source of generation of bio-medical waste in case waste is disposed of improperly; </p>
-                    </li>
-                    <li>
-                        <p>Creates real time online monitoring of waste generation, collection, transportation, treatment and disposal; and </p>
-                    </li>
-                    <li>
-                        <p>Quantification of bio-medical waste generated, colour coding-wise waste handed over to the CBWTF operator by the Occupier and waste collected daily by the Operator of a
-                            CBWTF from the member HCFs for further treatment and disposal.
-                        </p>
-                    </li>
-                </ol>
-
-
-            </section>
+            
 
         </div>
     </main>
