@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 
     <title>Hospital Management System in Tirupati - MedSpace</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <meta name="description" content="Medspace has developed the best hospital management system in Tirupati. It integrates all the information regarding patients, doctors, staff, laboratory, pharmacy and other hospital administrative details." />
+    <meta name="keywords" content="hospital management system, hospital management system in tirupati, hospital management software, hospital management system software in tirupati" />
 <!--Carousel Wrapper-->
 <div id="carousel-example-2" class="carousel slide carousel-fade body-start" data-ride="carousel">
   <!--Indicators-->
