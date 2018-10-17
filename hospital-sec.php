@@ -1,18 +1,18 @@
 <?php include("header.php"); ?>
 
-    <title>Hospital Managment Software in Tirupati | MedSpace</title>
+    <title>Hospital Management Software in Tirupati | MedSpace</title>
     <meta name="description" content="Medspace has developed the best hospital management software in Tirupati. It integrates all the information regarding patients, doctors, staff, laboratory, pharmacy and other hospital administrative details." />
     <meta name="keywords" content="hospital management software, hospital management software in tirupati, hospital management software, hospital management system software in tirupati" />
     
     <!--Main layout-->
     <main class="mt-5">
-        <img src="img/hms.png" alt="Hospital Managment Software" width="100%">
+        <img src="img/hms.png" alt="Hospital Managment Software" class="pt-4 mt-1" width="100%" style="max-height:480px;">
 
         <div class="container">
             
             <!--Section: Not enough-->
             <section class="pt-4 wow fadeIn">
-                <h2 class=" h3 text-center py-2">Hospital Managment Software in Tirupati</h2>
+                <h2 class="h3 text-center py-2">Hospital Management Software in Tirupati</h2>
                 <br>
                 <div class="row mt-1">
 
