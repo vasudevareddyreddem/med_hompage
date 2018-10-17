@@ -95,7 +95,7 @@
                         <p>
                             Operation theatre module maintains scheduling of operation theatres, surgery team, patient tracking, operation theatre consumable management etc. It maintains a record of pre & post operative conditions of the patient and gives complete information of surgery including start time, end time, surgery team and notes etc.
                         </p>
-                        <p>ICU module has all the details about patients, and thet can be admitted to any of the ICU’s. Patient follow up will be done and the notes are recorded. 
+                        <p>ICU module has all the details about patients, and they can be admitted to any of the ICU’s. Patient follow up will be done and the notes are recorded. 
                         </p>
                     </div>
                     
