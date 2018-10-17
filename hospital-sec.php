@@ -12,7 +12,7 @@
             
             <!--Section: Not enough-->
             <section class="pt-4 wow fadeIn">
-                <h2 class="h3 text-center py-2">Hospital Management Software in Tirupati</h2>
+                <h1 class="h1 text-center py-2">Hospital Management Software in Tirupati</h1>
                 <br>
                 <div class="row mt-1">
 
