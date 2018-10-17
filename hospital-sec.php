@@ -6,10 +6,12 @@
     
     <!--Main layout-->
     <main class="mt-5">
-        <div class="container">
+        <img src="img/hms.png" alt="Hospital Managment Software" width="100%">
 
+        <div class="container">
+            
             <!--Section: Not enough-->
-            <section class="pt-5 wow fadeIn">
+            <section class="pt-4 wow fadeIn">
                 <h2 class=" h3 text-center py-2">Hospital Managment Software in Tirupati</h2>
                 <br>
                 <div class="row mt-1">
