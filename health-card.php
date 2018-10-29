@@ -19,9 +19,9 @@
 
                         <!-- Main heading -->
                         <h3 class="h3 mb-3">Medspace Health Card</h3>
-                        <p> Medspace card is designed to store patient’s medical history. It gives each patient a smart card containing his/her complete medical history. </p>
-                        <p>Medspace card is a collection of medical records that get generated during any clinical encounter. The purpose of collecting medical records is to have accurate and faster diagnosis that translates into better treatment at lower costs, avoiding unnecessary investigations every time we visit hospitals. </p>
-                        <p>When a patient visits the hospital, patient’s information, medical records can be accessed directly through Medspace card. At the end of the process it has the capability to update patient’s information.</p>
+                        <p> Medspace gives a smart card i.e a health card to each patient or healthcare seeker,  containing his/her complete medical information. It is designed to store patient’s information such as name, age, gender, address, doctor prescription, lab test reports, prescribed medicines, no. of hospital visits and many more. The purpose of collecting medical records is to have an accurate and faster diagnosis that translates into better treatment at lower costs, avoiding unnecessary investigations every time the person visits the  hospital.</p>
+                        
+                        <p>When a patient visits the hospital, patient’s information, medical records can be accessed directly through Medspace Health card, and at the end of the process it has the capability to update patient’s information.</p>
                         <!-- Main heading -->
                     </div>
                     <!--Grid column-->
@@ -52,6 +52,7 @@
                             <li><p>Health card  gives access to assess the complete and detailed medical records of the patient.</p></li>
                             <li><p>Through these health cards patients can easily book appointment with the concerned doctor or  hospital.</p></li>
                             <li><p>Offers various discounts on OP, IP, Medicines and Lab tests.</p></li>
+							<li><p>Ambulance booking incase of emergency.</p></li>
                         </ul>
                         <!-- Main heading -->
 
@@ -62,24 +63,29 @@
                     <div class="col-md-12">
 
                         <!-- Main heading -->
-                        <h3 class="h3 mb-3">Medspace Online Appointment / Pharmacy / Lab Tests App</h3>
+                        <h3 class="h3 mb-3">Medspace Online Appointment App - Hospital/ Laboratory / Pharmacy</h3>
                         <p>
-                            Medspace Appointment App can be used for booking appointments in hospital for a particular department with date & time slot.  
-                        </p>
-                        <p>Once the date and time slot is done then the hospital’s authorized person will send slot confirmation message and patient will receive slot confirmation on their mobile app. </p>
+                            "Medspace Online Appointment App" is available on Google playstore and can be downloaded easily.  </p>
                         <!-- Main heading -->
                         
-                        <ul>
-                            <li>
-                                <h4>Pharmacy</h4>
+                        <ul> 
+						<li>
+                                <h4>Hospital</h4>
                                 <p>
-                                    Medicines can be ordered by calling the pharmacy or by uploading the genuine prescription. The prescription will be sent to nearby pharmacies. Final bill, discount and delivery date will be sent to you by the pharmacies. You can accept the pharmacy order and get confirmation on mobile app. 
+                                    Hospital appointment can be easily booked for a particular department with date and time slot.  Once the date and time slot is done then the hospital’s authorized person will send slot confirmation message to the patient via email, sms and mobile app. 
                                 </p>
                             </li>
+                            
                             <li>
-                                <h4>Lab</h4>
+                                <h4>Laboratory</h4>
                                 <p>
-                                    Patient will have the option to choose the prescribed lab test and submit the duly filled online form to the lab. Patient will receive  the information regarding date, time and details of the lab technician who collect the samples at your doorstep for minor tests, and for major tests patient will be given appointment to approach the lab. Reports will be generated within twelve hours after collecting samples. 
+                                    Patient will have the option to choose the prescribed lab test and submit the duly filled online form to the lab. Patient will receive  the information regarding date, time and details of the lab technician who collect the samples at your doorstep for minor tests, and for major tests patient will be given appointment to approach the lab. Reports will be generated within twelve hours after collecting samples, and will take required time for critical tests. 
+                                </p>
+                            </li>
+							<li>
+                                <h4>Pharmacy</h4>
+                                <p>
+                                    Medicines can be ordered by calling the pharmacy or by uploading the genuine prescription. The prescription will be sent to nearby pharmacies. Final bill, discount and delivery date will be sent to you by the concerned pharmacist. You can accept the pharmacy order and get confirmation on mobile app. 
                                 </p>
                             </li>
                         </ul>
@@ -99,7 +105,7 @@
 
                 <h2 class=" h3 text-center py-2">Our Hospital Process</h2>
 
-                <p class="text-center ">Online Doctor Appointment with Using MedSpace App and Hospital Management Software.</p>
+                <p class="text-center ">Online Doctor Appointment using MedSpace App and Hospital Management Software.</p>
                 <br>
 
                 <!--First row-->
@@ -115,8 +121,8 @@
                             </div>
                             <div class="col-10">
 
-                                <p class="">E-Health Card (MedSpace) OP Appointment Requested
-                                    to particular Department Hospitals with Date & time Slot.
+                                <p class="">E-Health Card (MedSpace): Booking OP appointment 
+                                    to particular department in the hospital with date and time Slot.
                                 </p>
                                 <div style="height:15px"></div>
                             </div>
@@ -130,11 +136,11 @@
                             </div>
                             <div class="col-10">
 
-                                <p class="">Hospital Authorized Person should Send Date and Time
-                                    Slot Accept Confirmation Message received by patient in
+                                <p class="">After conforming the appointment, hospital authorized person will send allocated date and time
+                                    slot, and the confirmation message will be received by the patient in
                                     Medspace Mobile App. </p>
                                 <div style="height:15px"></div>
-                            </div>
+                            </div> 
                         </div>
                         <!--/Third row-->
 
@@ -144,8 +150,8 @@
                             </div>
                             <div class="col-10">
 
-                                <p class="">Medspace Patient Visit the Hospital at Scheduled Time,
-                                    Receptionist Enter Full Patient Details & send to Concern Assigned Doctor.</p>
+                                <p class="">Medspace beneficiary or patient will visit the hospital at scheduled time, and the 
+                                    receptionist will enter full details of the patient and send to the assigned doctor.</p>
                                 <div style="height:15px"></div>
                             </div>
                         </div>
@@ -157,13 +163,13 @@
                             <div class="col-10">
 
                                 <span class="">
-                                    <p>First Doctor Confirm The patient was new or old.</p>
+                                    <p>Firstly, doctor will check whether the patient is new or existing one.</p>
                                     <ol>
                                         <li>
-                                            <p>If old Patient, Doctor Check Previous History of patient.</p>
+                                            <p>If it is existing patient, doctor will check the medical history of the patient.</p>
                                         </li>
                                         <li>
-                                            <p>If New Patient Direct Start Consultancy.</p>
+                                            <p>If it is new patient, doctor will start the consultancy process.</p>
                                         </li>
                                     </ol>
                                 </span>
@@ -191,16 +197,16 @@
                             <div class="col-10">
 
                                 <span class="">
-                                    <p>Doctor Having Three Options</p>
+                                    <p>After checking doctor will opt one of the following options depending upon patients condition:</p>
                                     <ol>
                                         <li>
                                             <p>Pharmacy</p>
                                         </li>
                                         <li>
-                                            <p> Lab</p>
+                                            <p> Laboratory</p>
                                         </li>
                                         <li>
-                                            <p> IP</p>
+                                            <p> In-Patient</p>
                                         </li>
                                     </ol>
                                 </span>
@@ -216,10 +222,7 @@
                             </div>
                             <div class="col-10">
 
-                                <p class=""><strong>Pharmacy:</strong> Doctor Simply Choose Medicines In Drop Down
-                                    (if Doctor Type one letter of medicine name it will automatically shows).
-                                    If selected Medicine Not Available & Chooses
-                                    another Combination of Medicine.</p>
+                                <p class=""><strong>Pharmacy:</strong> After the checkup, if doctor concludes that just medicine is enough then he simply chooses required medicines in drop down menu from hospital software. If the selected medicine is not available or out of stock then doctor will choose another medicine with the same combination.</p>
                                 <div style="height:15px"></div>
                             </div>
                         </div>
@@ -230,9 +233,7 @@
                             </div>
                             <div class="col-10">
 
-                                <p class=""><strong> Lab:</strong> Doctor Simply Choose Diagnostics in
-                                    Drop Down, to select any lab test and send to
-                                    laboratory concern person.</p>
+                                <p class=""><strong> Lab:</strong> After checkup, if it requires to undergo some lab tests, then doctor will prescribe the type of test to be diagonised from the drop down menu and refers patient to the laboratory.</p>
                                 <div style="height:15px"></div>
                             </div>
                         </div>
@@ -243,8 +244,7 @@
                             </div>
                             <div class="col-10">
 
-                                <p class=""><strong> IP:</strong> if patient has any Emergency issue, Doctor
-                                    Send full details to IP Authorized Person.</p>
+                                <p class=""><strong> IP:</strong> If patient has any emergency issue, then doctor will refer him/her to the IP-ward through hospital management software.</p>
                                 <div style="height:15px"></div>
                             </div>
                         </div>
