@@ -19,10 +19,8 @@
 
                         <!-- Main heading -->
                         <h3 class="h3 mb-3">Medspace Health Card</h3>
-                        <p>
-                            Medspace card is a collection of medical records that get generated during any clinical encounter. The purpose of collecting medical records is to have accurate and faster diagnosis that translates into better treatment at lower costs, avoiding unnecessary investigations every time we visit hospitals.
-                        </p>
-                        <p>Medspace card is designed to store patient’s medical history. It gives each patient a smart card containing his/her complete medical history. </p>
+                        <p> Medspace card is designed to store patient’s medical history. It gives each patient a smart card containing his/her complete medical history. </p>
+                        <p>Medspace card is a collection of medical records that get generated during any clinical encounter. The purpose of collecting medical records is to have accurate and faster diagnosis that translates into better treatment at lower costs, avoiding unnecessary investigations every time we visit hospitals. </p>
                         <p>When a patient visits the hospital, patient’s information, medical records can be accessed directly through Medspace card. At the end of the process it has the capability to update patient’s information.</p>
                         <!-- Main heading -->
                     </div>
