@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 
-    <title>Health Card | MedSpace</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <title>Health Cards in Tirupati | MedSpace</title>
+    <meta name="description" content="Medspace provides health cards that will save all the medical history of the healthcare seeker, and also offers various discounts on lab tests and medicines" />
+    <meta name="keywords" content="health cards in tirupati, medspace health cards, health cards in andhra pradesh, ehealth cards" />
 
     <!--Main layout-->
     <main class="mt-5">
