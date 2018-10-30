@@ -48,7 +48,7 @@
         }
     </style>
 </head>
-
+<?php $a_url=basename($_SERVER['SCRIPT_FILENAME']);?>
 
 <body>
 
@@ -71,18 +71,18 @@
 
                 <!-- Left -->
                 <ul class="navbar-nav mr-auto nav">
-                    <li class="nav-item ">
+                    <li class="nav-item <?php if($a_url=='index.php' || $a_url=='' ){ echo "active"; } ?>">
                         <a class="nav-link" href="index.php">Home
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
-                    <li class="nav-item">
+                     <li class="nav-item <?php if($a_url=='hospital-management-software.php' || $a_url=='hospital-management-software' ){ echo "active"; } ?>">
                         <a class="nav-link" href="hospital-management-software.php">Hospital</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item <?php if($a_url=='healthcards.php' || $a_url=='healthcards' ){ echo "active"; } ?>">
                         <a class="nav-link" href="healthcards.php">Health Cards</a>
                     </li>
-                    <li class="nav-item">
+                     <li class="nav-item <?php if($a_url=='waste-management-system.php' || $a_url=='waste-management-system' ){ echo "active"; } ?>">
                         <a class="nav-link" href="waste-management-system.php">Waste Mangement</a>
                     </li>
 
