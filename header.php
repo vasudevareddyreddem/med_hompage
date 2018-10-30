@@ -77,13 +77,13 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="hospital-sec.php">Hospital</a>
+                        <a class="nav-link" href="hospital-management-software.php">Hospital</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="health-card.php">Health Cards</a>
+                        <a class="nav-link" href="healthcards.php">Health Cards</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="waste-mang.php">Waste Mangement</a>
+                        <a class="nav-link" href="waste-management-system.php">Waste Mangement</a>
                     </li>
 
                 </ul>
