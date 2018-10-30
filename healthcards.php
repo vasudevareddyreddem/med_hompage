@@ -6,31 +6,25 @@
 
     <!--Main layout-->
     <main class="mt-5">
+        
+        <img src="img/health-card.png" alt="Health Card" class="pt-4 mt-1" width="100%" style="max-height:480px;"> 
         <div class="container">
 
             <!--Section: Main info-->
-            <section class="pt-5 wow fadeIn">
+            <section class="pt-4 wow fadeIn">
 
                 <!--Grid row-->
-                <div class="row mt-5">
+                <div class="row">
                     
                     <!--Grid column-->
-                    <div class="col-md-6">
-
+                    <div class="col-md-12">
+                        <h1 class="h1 text-center py-2">Medspace Health Card</h1>
                         <!-- Main heading -->
-                        <h3 class="h3 mb-3">Medspace Health Card</h3>
+                        <br>
                         <p> Medspace gives a smart card i.e a health card to each patient or healthcare seeker,  containing his/her complete medical information. It is designed to store patient’s information such as name, age, gender, address, doctor prescription, lab test reports, prescribed medicines, no. of hospital visits and many more. The purpose of collecting medical records is to have an accurate and faster diagnosis that translates into better treatment at lower costs, avoiding unnecessary investigations every time the person visits the  hospital.</p>
                         
                         <p>When a patient visits the hospital, patient’s information, medical records can be accessed directly through Medspace Health card, and at the end of the process it has the capability to update patient’s information.</p>
                         <!-- Main heading -->
-                    </div>
-                    <!--Grid column-->
-
-                    <!--Grid column-->
-                    <div class="col-md-6">
-
-                        <img src="img/card.png" class="img-fluid " alt="">
-
                     </div>
                     <!--Grid column-->
 
