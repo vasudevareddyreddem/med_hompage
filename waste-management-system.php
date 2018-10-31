@@ -6,6 +6,8 @@
 
     <!--Main layout-->
     <main class="mt-5">
+        <img src="img/waste-mang.png" alt="Hospital Managment Software" class="pt-4 mt-1" width="100%" style="max-height:480px;">
+
         <div class="container">
 
             <!--Section: Main info-->
