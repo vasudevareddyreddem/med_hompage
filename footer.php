@@ -121,7 +121,7 @@
                 <div class="col-md-4">
                     <h3 class="h4">Contact Us</h3>
                     <p><i class="fa fa-envelope" aria-hidden="true"></i>
-                        &nbsp; medspaceit@gmail.com</p>
+                        &nbsp; support@medspaceit.com</p>
                     <p><i class="fa fa-whatsapp" aria-hidden="true"></i>
 
                         &nbsp; 7095103103</p>
