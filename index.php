@@ -9,19 +9,18 @@
     <ol class="carousel-indicators">
         <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-example-2" data-slide-to="1"></li>
-        <li data-target="#carousel-example-2" data-slide-to="2"></li>
+        <!--<li data-target="#carousel-example-2" data-slide-to="2"></li>-->
     </ol>
     <!--/.Indicators-->
     <!--Slides-->
     <div class="carousel-inner" role="listbox">
-        <div class="carousel-item active">
+        <!--<div class="carousel-item active">
             <div class="view">
                 <img class="d-block w-100" src="img/img-1.jpg" alt="First slide">
                 <div class="mask rgba-black-light"></div>
             </div>
-
-        </div>
-        <div class="carousel-item">
+        </div>-->
+        <div class="carousel-item active">
             <!--Mask color-->
             <div class="view">
                 <img class="d-block w-100" src="img/img-2.jpg" alt="Second slide">
